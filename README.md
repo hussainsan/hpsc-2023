@@ -1,3 +1,6 @@
+Name: AL MAHMUD HUSSAIN ABDULLAH J
+Student I.D.: 21D18573
+
 # hpc_lecture
 
 学籍番号：
